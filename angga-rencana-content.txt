@@ -4,6 +4,7 @@ Rencana Angga
   # ES6
   # Framework JS
     ^ Vue
+    ^ React
 - Struktur Data Dasar
 - PHP
   ^ Laravel
