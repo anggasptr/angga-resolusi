@@ -3,7 +3,10 @@ Rencana Angga
 - Javascript
   # ES6
   # Framework JS
+    ^ Vue
 - Struktur Data Dasar
 - PHP
+  ^ Laravel
 - HTML
 - CSS
+- Phyton
