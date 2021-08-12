@@ -3,6 +3,7 @@ Rencana Angga
 - Javascript
   # ES6
   # Framework JS
+- Struktur Data Dasar
 - PHP
 - HTML
 - CSS
