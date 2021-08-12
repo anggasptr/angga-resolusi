@@ -1,6 +1,8 @@
 Rencana Angga
 
 - Javascript
+  # ES6
+  # Framework JS
 - PHP
 - HTML
 - CSS
